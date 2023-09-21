@@ -1,3 +1,4 @@
 # first-demo
-This is my first Git repository.
-Author-Hema vallika
+This is my first Git Repository.
+<br>
+Author-Hema Vallika
